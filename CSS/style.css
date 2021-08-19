@@ -201,7 +201,7 @@ b {
     font-size: 1.8rem;
     padding: 0;
 }
-@media screen and (max-width: 1000px) {
+@media (max-width: 1000px) {
     #container {
         width: 90vw;
         min-width: auto;
@@ -219,7 +219,7 @@ b {
         margin-left: 0;
     }
 }
-@media screen and (max-width: 590px) {
+@media (max-width: 590px) {
     #nav-img {
         display: none;
     }
