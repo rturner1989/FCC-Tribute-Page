@@ -35,18 +35,25 @@ p {
     font-size: 1.5rem;
 }
 ul {
-    margin-left: 5rem;
+    margin-left: 2rem;
 }
 #ff7list li,
 #ff8list li,
 #ff9list li {
     font-size: 1.4rem;
     list-style: none;
+    padding: 10px;
 }
 b {
     font-size: 1.6rem;
     color: rgb(255, 255, 255);
     text-shadow: 3px 3px rgb(0, 0, 0);
+}
+hr {
+    display: flex;
+    align-self: center;
+    color: red;
+    width: 80%;
 }
 /* Header section */
 #header {
@@ -201,6 +208,8 @@ b {
     font-size: 1.8rem;
     padding: 0;
 }
+
+/* media query */
 @media (max-width: 1000px) {
     #container {
         width: 90vw;
