@@ -18,7 +18,11 @@ User Story #5: Within the img-div element, I should see an element with a corres
 
 User Story #6: I should see an element with a corresponding id="tribute-info", which contains textual content describing the subject of the tribute page.
 
+<<<<<<< HEAD
 User Story #7: I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to \_blank in order for your link to open in a new tab (i.e. target="\_blank").
+=======
+User Story #7: I should see an a element with a corresponding id="tribute-link", which links to an outside site that contains additional information about the subject of the tribute page. HINT: You must give your element an attribute of target and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").
+>>>>>>> e8ebac2e984fce2dae6238e333f82139d35b41ce
 
 User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 
