@@ -208,9 +208,9 @@ hr {
     padding: 10px;
 }
 .img-div {
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
     background: white;
     height: 250px;
     width: 300px;
@@ -219,6 +219,9 @@ hr {
     box-shadow: black 3px 3px 5px;
 }
 .character-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 240px;
     width: auto;
 }
